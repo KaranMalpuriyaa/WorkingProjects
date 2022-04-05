@@ -2,7 +2,7 @@
 This is a collections of pictures of my working in game development
 
 <h2 align "left">Mr Bow</h2>
-<p align="left"><img align="center" src="MrBow/1.png" width=400> <img align="center" src="MrBow/2.png" width=400></p>
+<p align="left"><img align="center" src="MrBow/1.png" width=300> <img align="center" src="MrBow/2.png" width=300></p>
 
 <h2 align "left">Helix Jump</h2>
 <p align="left"><img align="center" src="HelixJump/1.png" width=200> <img align="center" src="HelixJump/2.png" width=200> <img align="center" src="HelixJump/3.png" width=200> <img align="center" src="HelixJump/4.png" width=200></p>
@@ -20,5 +20,5 @@ This is a collections of pictures of my working in game development
 <p align="left"><img align="center" src="ZigZag"/1.png" width=300> <img align="center" src="ZigZag/2.png" width=300> <img align="center" src="ZigZag/3.png" width=300></p>
   
 <h2 align "left">Angry Bird</h2>
-<p align="left"><img align="center" src="AngryBird/1.png" width=400> <img align="center" src="AngryBird/2.png" width=400></p>
+<p align="left"><img align="center" src="AngryBird/1.png" width=300> <img align="center" src="AngryBird/2.png" width=300></p>
 
