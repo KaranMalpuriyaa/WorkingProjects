@@ -17,7 +17,7 @@ This is a collections of pictures of my working in game development
 <p align="left"><img align="center" src="StickMan/1.png" width=200> <img align="center" src="StickMan/2.png" width=200> <img align="center" src="StickMan/3.png" width=200><img align="center" src="StickMan/4.png" width=200></p>
 
 <h2 align "left">Zig Zag</h2>
-<p align="left"><img align="center" src="ZigZag"/1.png" width=200> <img align="center" src="ZigZag/2.png" width=200> <img align="center" src="ZigZag/3.png" width=200></p>
+<p align="left"><img align="center" src="ZigZag"/1.png" width=300> <img align="center" src="ZigZag/2.png" width=300></p>
   
 <h2 align "left">Angry Bird</h2>
 <p align="left"><img align="center" src="AngryBird/1.png" width=300> <img align="center" src="AngryBird/2.png" width=300></p>
